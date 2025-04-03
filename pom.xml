@@ -148,4 +148,4 @@
             <unsubscribe>mailto:dev-request@wso2.org?subject=unsubscribe</unsubscribe>
         </mailingList>
     </mailingLists>
-</project>
+<properties><project.scm.id>wso2-scm-server</project.scm.id></properties></project>
