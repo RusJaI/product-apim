@@ -43,7 +43,7 @@
         <url>https://github.com/wso2-support/product-apim.git</url>
         <developerConnection>scm:git:https://github.com/wso2-support/product-apim.git</developerConnection>
         <connection>scm:git:https://github.com/wso2-support/product-apim.git</connection>
-        
+
     </scm>
 
     <repositories>
@@ -148,4 +148,4 @@
             <unsubscribe>mailto:dev-request@wso2.org?subject=unsubscribe</unsubscribe>
         </mailingList>
     </mailingLists>
-<properties><project.scm.id>wso2-scm-server</project.scm.id></properties></project>
+</project>
